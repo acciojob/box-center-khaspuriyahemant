@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+.box{
+	background-color:lightblue;
+	width:200px;
+	border: 2px thick black;
+	height:200px;
+	text-align:center;
+	color:purple;
+	
+}
