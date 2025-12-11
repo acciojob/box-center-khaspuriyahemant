@@ -1,10 +1,20 @@
 /*  your css code here. If applicable */
-.box{
-	background-color:lightblue;
-	width:200px;
-	border: 2px thick black;
-	height:200px;
-	text-align:center;
+.div{
+	position:absolute;
+	left:50%;
+	top:50%;
+	width: 200px;
+    height: 200px;
+	border: 2px solid black;
+    background-color: lightblue;
+    transform: translate(-50%, -50%);
+	
+
+p{
 	color:purple;
+	text-align:center;
+	line-height:200px;
+	
+}
 	
 }
